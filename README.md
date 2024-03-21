@@ -4,7 +4,7 @@
 
 3.Created that navigation to courses using react router dom and added the contents as static.
 
-Live App Demo:jovial-meringue-31c58b.netlify.app
+Live App Demo:https://jovial-meringue-31c58b.netlify.app
 
 # Getting Started with Create React App
 
