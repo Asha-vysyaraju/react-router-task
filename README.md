@@ -1,6 +1,9 @@
 1.Created a Navigation webpage with routes using react-router-dom.
+
 2.Navigation menu consists ALL,Full Stack Development,Cyber security, Data Science ,Career links which will navigate to their respective course details page.
+
 3.Created that navigation to courses using react router dom and added the contents as static.
+
 Live App Demo:jovial-meringue-31c58b.netlify.app
 
 # Getting Started with Create React App
